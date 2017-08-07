@@ -1,4 +1,5 @@
 .*
+!.gitattributes
 /dist
 /node_modules
 /selenium
